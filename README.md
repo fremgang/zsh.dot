@@ -1,0 +1,2 @@
+# zsh.dot
+ohmyzsh dot
